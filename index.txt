@@ -1,3 +1,1 @@
-Hello from Bitbucket
-Trigger Test
-Rechecking Trigger Test
+Hello from git repo index file
